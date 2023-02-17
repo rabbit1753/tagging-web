@@ -1,0 +1,11 @@
+causal relationship,Action,10
+causal relationship,State,1
+causal relationship,Life,1
+action,State,4
+action,Action,7
+character,Action,3
+setting,Action,3
+setting,State,1
+prediction,Action,2
+feeling,Action,1
+feeling,State,1

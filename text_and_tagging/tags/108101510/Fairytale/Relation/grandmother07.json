@@ -1,0 +1,1 @@
+[{"which_QA": "grandmother07-1.txt", "Relation_type": "Coreference", "Relation_subtype": "Coref", "Arguments": [{"Arg_type": "Arg1", "Text": "grandmother", "Start": "162", "End": "163"}, {"Arg_type": "Arg2", "Text": "she", "Start": "168", "End": "169"}]}]

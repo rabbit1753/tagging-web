@@ -1,0 +1,28 @@
+causal relationship,Coreference,9
+causal relationship,PART-WHOLE,12
+causal relationship,PHYS (physical),17
+causal relationship,PER-SOC (person-social),4
+causal relationship,GEN-AFF (Gen-affiliation),1
+causal relationship,Causal Effect,2
+causal relationship,Unk,1
+action,PHYS (physical),3
+action,PER-SOC (person-social),4
+action,ART (artifact),3
+action,Causal Effect,1
+action,Coreference,3
+action,PART-WHOLE,7
+character,Coreference,5
+character,PHYS (physical),8
+character,GEN-AFF (Gen-affiliation),2
+character,PER-SOC (person-social),5
+character,PART-WHOLE,12
+character,Causal Effect,2
+character,Unk,2
+outcome resolution,PER-SOC (person-social),2
+outcome resolution,Coreference,5
+outcome resolution,PHYS (physical),9
+outcome resolution,Causal Effect,2
+feeling,PER-SOC (person-social),2
+feeling,PHYS (physical),1
+feeling,ART (artifact),1
+feeling,PART-WHOLE,1

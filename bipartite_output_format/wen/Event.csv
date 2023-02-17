@@ -1,0 +1,7 @@
+setting,Action,2
+character,State,1
+character,Action,1
+action,Action,11
+causal relationship,Action,2
+causal relationship,State,1
+prediction,Contact,1

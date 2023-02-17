@@ -1,0 +1,1 @@
+[{"which_QA": "ali-baba-and-forty-thieves02-1.txt", "Event_type": "Action", "Event_subtype": "Action Verb", "Arguments": [{"Arg_type": "Actor", "Text": "the treasure", "Start": "60", "End": "63"}, {"Arg_type": "Trigger_Word", "Text": "is in", "Start": "64", "End": "67"}, {"Arg_type": "Place", "Text": "a cave", "Start": "68", "End": "71"}]}]

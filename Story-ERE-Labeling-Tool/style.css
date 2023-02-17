@@ -1,0 +1,67 @@
+#nav-tab {
+    margin-top:15px;
+}
+
+#file_selector {
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right:10px;
+    width: 50%;
+    display: inline;
+}
+#QA_selector {
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right:10px;
+    width: 100%;
+    display: inline;
+}
+
+#exampleDataList {
+    margin-top:15px;
+    width: 40%;
+    display: inline;
+    margin-left: 10px;
+}
+
+#card_content{
+    height:400px;
+}
+
+#nav-home, #nav-profile, #nav-contact {
+    height:500px;
+    margin-top:10px;
+}
+
+#select_1, #select_2, #select_3 {
+    margin-top: 15px;
+}
+
+#title{
+    height:40px;
+    width: auto;
+    margin-top:10px;
+}
+
+#pair-Q, #pair-A,#attribute_text {
+    padding-left: 15px;
+    height:60px;
+    margin-top:10px;
+}
+#attribute_text {
+    padding-left: 15px;
+    height:40px;
+    margin-top:10px;
+}
+
+
+span {
+    /* border: 2px solid black; */
+    display: inline-block;
+    width: fit-content;
+    margin-left: 5px;
+}
+
+.btn-close {
+    margin-left: 10px;
+}

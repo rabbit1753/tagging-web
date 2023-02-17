@@ -1,0 +1,35 @@
+action,PHYS (physical),7
+action,Coreference,13
+action,Causal Effect,5
+action,PER-SOC (person-social),6
+action,ART (artifact),2
+action,PART-WHOLE,9
+action,Unk,1
+setting,ORG-AFF (Org-affiliation),1
+setting,PART-WHOLE,1
+setting,PHYS (physical),2
+causal relationship,Causal Effect,5
+causal relationship,Coreference,10
+causal relationship,PART-WHOLE,18
+causal relationship,PHYS (physical),14
+causal relationship,PER-SOC (person-social),5
+causal relationship,ART (artifact),1
+causal relationship,GEN-AFF (Gen-affiliation),1
+prediction,Coreference,1
+prediction,PART-WHOLE,1
+prediction,Causal Effect,1
+prediction,PHYS (physical),2
+feeling,PART-WHOLE,2
+feeling,Coreference,1
+feeling,PHYS (physical),2
+feeling,ART (artifact),1
+character,PART-WHOLE,7
+character,PER-SOC (person-social),3
+character,Coreference,3
+character,PHYS (physical),5
+character,GEN-AFF (Gen-affiliation),1
+character,Causal Effect,4
+character,Unk,3
+outcome resolution,PHYS (physical),9
+outcome resolution,Causal Effect,2
+outcome resolution,Coreference,2

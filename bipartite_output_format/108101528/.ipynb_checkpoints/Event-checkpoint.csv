@@ -1,0 +1,18 @@
+causal relationship,Action,20
+causal relationship,Contact,3
+causal relationship,State,4
+causal relationship,Process,1
+action,Action,19
+action,Movement,4
+action,State,3
+action,Life,1
+action,Contact,1
+character,Contact,1
+character,Action,11
+character,State,3
+character,Personnel,1
+outcome resolution,Action,12
+outcome resolution,Contact,1
+outcome resolution,State,1
+feeling,Action,6
+feeling,State,1

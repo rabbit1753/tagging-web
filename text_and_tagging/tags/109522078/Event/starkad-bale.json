@@ -1,0 +1,1 @@
+[{"Event_type": "Life", "Event_subtype": "Die", "Arguments": [{"Arg_type": "Trigger_Word", "Text": "flung", "Start": "701", "End": "702"}, {"Arg_type": "Victim", "Text": "Starkad", "Start": "697", "End": "698"}, {"Arg_type": "Agent", "Text": "lightning", "Start": "693", "End": "694"}]}]

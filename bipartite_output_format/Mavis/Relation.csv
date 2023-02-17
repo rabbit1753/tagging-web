@@ -1,0 +1,18 @@
+causal relationship,Causal Effect,39
+causal relationship,Coreference,52
+causal relationship,Temporal,1
+action,Coreference,33
+action,Causal Effect,21
+action,Temporal,3
+setting,Temporal,1
+setting,Coreference,2
+prediction,Temporal,1
+prediction,Coreference,3
+prediction,Causal Effect,2
+outcome resolution,Causal Effect,12
+outcome resolution,Temporal,4
+outcome resolution,Coreference,14
+feeling,Causal Effect,1
+feeling,Coreference,1
+character,Coreference,10
+character,Causal Effect,2

@@ -1,0 +1,1 @@
+[{"which_QA": "ali-baba-and-forty-thieves02-2.txt", "Relation_type": "Causal Effect", "Relation_subtype": "Effect on X", "Arguments": [{"Arg_type": "Arg1", "Text": "the thieves are gone", "Start": "140", "End": "147"}, {"Arg_type": "Arg2", "Text": "ali baba enters the cave himself , and takes some of the treasure home ", "Start": "150", "End": "178"}]}]

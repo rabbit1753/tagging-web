@@ -1,0 +1,10 @@
+feeling,State,2
+action,Action,11
+action,State,1
+setting,State,2
+setting,Action,2
+character,State,6
+character,Action,2
+causal relationship,State,4
+causal relationship,Action,5
+outcome resolution,Action,1

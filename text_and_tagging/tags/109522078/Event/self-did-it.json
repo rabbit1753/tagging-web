@@ -1,0 +1,1 @@
+[{"Event_type": "State", "Event_subtype": "Emotion", "Arguments": [{"Arg_type": "Trigger_word", "Text": "angry", "Start": "552", "End": "553"}, {"Arg_type": "Entity", "Text": "woman", "Start": "548", "End": "549"}]}]

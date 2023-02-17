@@ -1,0 +1,67 @@
+Question type,Question,Answer,Paragraph,Event type -subtype,Relation type - subtype
+action,how did the snow man describe the weather ?,delightfully cold .,Snow-man01-1,State - Characteristic,
+action,how did the snow man describe the weather ?,delightfully cold .,Snow-man01-1,Action - Direct Speech Act,
+character,who was setting ?,the sun .,Snow-man01-2,Action - Action Verb,
+outcome resolution,what happened after the sun went down ?,the full moon rose .,Snow-man01-3,,Causal Effect - Effect on other
+action,what did the snow man wish he could do ?,move away from that place .,Snow-man02-1,Action - Direct Speech Act,
+action,what did the snow man wish he could do ?,move away from that place .,Snow-man02-1,State - Thought,
+causal relationship,"why couldn't the dog say ""bow wow"" properly ?",because he was quite hoarse .,Snow-man02-2,State - Characteristic,
+causal relationship,"why couldn't the dog say ""bow wow"" properly ?",because he was quite hoarse .,Snow-man02-2,Action - Action Verb,
+causal relationship,"why couldn't the dog say ""bow wow"" properly ?",because he was quite hoarse .,Snow-man02-2,,Coreference - Coref
+causal relationship,"why couldn't the dog say ""bow wow"" properly ?",because he was quite hoarse .,Snow-man02-2,,Causal Effect - Effect on X
+prediction,what will make the snow man run some day ?,the sun .,Snow-man02-3,Action - Direct Speech Act,
+prediction,what will make the snow man run some day ?,the sun .,Snow-man02-3,Action - Action Verb,
+prediction,what will make the snow man run some day ?,the sun .,Snow-man02-3,,Coreference - Coref
+causal relationship,why did the dog go into his kennel ?,to sleep .,Snow-man03-1,Action - Direct Speech Act,
+causal relationship,why did the dog go into his kennel ?,to sleep .,Snow-man03-1,Action - Direct Speech Act,
+causal relationship,why did the dog go into his kennel ?,to sleep .,Snow-man03-1,Action - Direct Speech Act,
+causal relationship,why did the dog go into his kennel ?,to sleep .,Snow-man03-1,,Coreference - Coref
+causal relationship,why did the dog go into his kennel ?,to sleep .,Snow-man03-1,,Causal Effect - Effect on X
+action,what did the frost make the trees and bushes look like ?,a forest of white coral .,Snow-man04-1,Action - Action Verb,
+action,what did the frost make the trees and bushes look like ?,a forest of white coral .,Snow-man04-1,State - Characteristic,
+action,what did the frost make the trees and bushes look like ?,a forest of white coral .,Snow-man04-1,State - Characteristic,
+setting,what did the snowy carpet of the earth appear to be covered with ?,diamonds .,Snow-man04-2,State - Characteristic,
+character,who came into the garden ?,a young girl and a young man .,Snow-man05-1,Action - Action Verb,
+character,who came into the garden ?,a young girl and a young man .,Snow-man05-1,,Coreference - Coref
+causal relationship,why did the snow man ask the yard-dog about the two people in the garden ?,the yard - dog had been there longer than the snow man .,Snow-man05-2,Action - Direct Speech Act,
+causal relationship,why did the snow man ask the yard-dog about the two people in the garden ?,the yard - dog had been there longer than the snow man .,Snow-man05-2,Action - Direct Speech Act,
+causal relationship,why didn't the yard-dog ever bite the young girl ?,she stroked his back many times .,Snow-man05-3,,Causal Effect - Effect on other
+causal relationship,why did the snow man know very little ?,he was only born yesterday .,Snow-man06-1,Life - Be-Born,
+causal relationship,why did the snow man know very little ?,he was only born yesterday .,Snow-man06-1,Action - Direct Speech Act,
+causal relationship,why did the snow man know very little ?,he was only born yesterday .,Snow-man06-1,,Causal Effect - Effect on X
+causal relationship,why did the snow man know very little ?,he was only born yesterday .,Snow-man06-1,,Coreference - Coref
+action,when was the snow man born ?,yesterday .,Snow-man06-2,Action - Direct Speech Act,
+action,when was the snow man born ?,yesterday .,Snow-man06-2,,Coreference - Coref
+setting,where did the yard-dog used to lie ?,"in a velvet - covered chair , up at the master 's house .",Snow-man07-1,Action - Action Verb,
+setting,where did the yard-dog used to lie ?,"in a velvet - covered chair , up at the master 's house .",Snow-man07-1,Action - Action Verb,
+setting,where did the yard-dog used to lie ?,"in a velvet - covered chair , up at the master 's house .",Snow-man07-1,,Coreference - Coref
+setting,where was the yard-dog sent away to when he grew too big ?,the housekeeper 's room .,Snow-man07-2,Action - Action Verb,
+setting,where was the yard-dog sent away to when he grew too big ?,the housekeeper 's room .,Snow-man07-2,,Coreference - Coref
+setting,where was the yard-dog sent away to when he grew too big ?,the housekeeper 's room .,Snow-man07-2,,Causal Effect - Effect on other
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,Action - Action Verb,
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,Action - Action Verb,
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,,Coreference - Coref
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,,Coreference - Coref
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,,Coreference - Coref
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,,Coreference - Coref
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,,Coreference - Coref
+action,what did the snow man see through the window ?,the stove .,Snow-man08-1,,Causal Effect - Effect on X
+causal relationship,why did the yard-dog give up such a comfortable place ?,he had to .,Snow-man09-1,Action - Direct Speech Act,
+causal relationship,why did the yard-dog give up such a comfortable place ?,he had to .,Snow-man09-1,Action - Direct Speech Act,
+causal relationship,why did the yard-dog give up such a comfortable place ?,he had to .,Snow-man09-1,,Causal Effect - Effect on other
+causal relationship,why did the yard-dog give up such a comfortable place ?,he had to .,Snow-man09-1,,Coreference - Coref
+causal relationship,why did the yard-dog give up such a comfortable place ?,he had to .,Snow-man09-1,,Coreference - Coref
+causal relationship,why did the yard-dog say was his reason for biting the master's son ?,he kicked away the bone i was gnawing .,Snow-man10-1,Action - Direct Speech Act,
+causal relationship,why did the yard-dog say was his reason for biting the master's son ?,he kicked away the bone i was gnawing .,Snow-man10-1,,Coreference - Coref
+causal relationship,why did the yard-dog say was his reason for biting the master's son ?,he kicked away the bone i was gnawing .,Snow-man10-1,,Causal Effect - Effect on other
+causal relationship,why did the yard-dog say was his reason for biting the master's son ?,he kicked away the bone i was gnawing .,Snow-man10-1,,Coreference - Coref
+outcome resolution,what happened when the door of the stove was opened ?,the flames darted out of its mouth .,Snow-man11-1,,Causal Effect - Effect on other
+feeling,how did the snow man call the feeling he felt when he could not see the stove through the window ?,stove sick .,Snow-man12-1,Action - Action Verb,
+feeling,how did the snow man call the feeling he felt when he could not see the stove through the window ?,stove sick .,Snow-man12-1,State - Emotion,
+feeling,how did the snow man call the feeling he felt when he could not see the stove through the window ?,stove sick .,Snow-man12-1,,Coreference - Coref
+feeling,how did the snow man call the feeling he felt when he could not see the stove through the window ?,stove sick .,Snow-man12-1,,Causal Effect - X reaction
+outcome resolution,what happened as the warmth increased ?,the snow man decreased .,Snow-man13-1,,Causal Effect - Effect on X
+action,what did the snow man have in his body that made him long for the stove ?,a stove scraper .,Snow-man13-2,Action - Direct Speech Act,
+action,what did the snow man have in his body that made him long for the stove ?,a stove scraper .,Snow-man13-2,,Coreference - Coref
+action,what did the snow man have in his body that made him long for the stove ?,a stove scraper .,Snow-man13-2,,Causal Effect - X need
+character,who sang about sweet spring-time ?,the girls in the house .,Snow-man14-1,Action - Action Verb,

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title> Story Tagging </title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="row gx-2">
+      <div class="col-4">
+        <select class="form-select" aria-label="Default select example" id="file_selector" onchange="file_selected()">
+          <option value="-1" selected disabled>選擇檔案</option>
+        </select>
+        <div class="form-check" style="margin-top:15px">
+          <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+          <label class="form-check-label" for="exampleRadios1">
+            顯示全部
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2"
+            disabled>
+          <label class="form-check-label" for="exampleRadios2">
+            分句顯示
+          </label>
+        </div>
+        <div class="card" style="margin-top:15px">
+          <div class="card-header" id="card_title">
+            這邊會顯示檔名
+          </div>
+          <div class="card-body overflow-auto" id="card_content">
+            <p>這邊會顯示故事內容</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <nav>
+          <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home"
+              type="button" role="tab" aria-controls="nav-home" aria-selected="true" data-value="Entity"
+              onclick="change_tab(this)">Entity</button>
+            <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button"
+              role="tab" aria-controls="nav-home" aria-selected="false" data-value="Relation"
+              onclick="change_tab(this)">Relation</button>
+            <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button"
+              role="tab" aria-controls="nav-home" aria-selected="false" data-value="Event"
+              onclick="change_tab(this)">Event</button>
+          </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+          <div class="tab-pane fade show active border border-2 rounded overflow-auto" id="nav-home" role="tabpanel"
+            aria-labelledby="nav-home-tab">
+            這邊會顯示標記狀況
+          </div>
+          <div class="d-grid gap-2 d-md-flex justify-content-md-end" style="margin-top:15px">
+            <button type="button" class="btn btn-success" id="commit_btn" onclick="click_commit()">Commit</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-3">
+        <form>
+          <div class="mb-3">
+            <select class="form-select" aria-label="Default select example" id="select_1" onchange="select1_changed()">
+              <option value="Per">Per</option>
+              <option value="Org">Org</option>
+              <option value="Loc">Loc</option>
+              <option value="Fac">Fac</option>
+              <option value="Veh">Veh</option>
+              <option value="Wea">Wea</option>
+              <option value="Gpe">Gpe</option>
+            </select>
+            <select class="form-select" aria-label="Default select example" id="select_2" onchange="select2_changed()">
+            </select>
+            <select class="form-select" aria-label="Default select example" id="select_3">
+            </select>
+          </div>
+          <div>
+            <button type="button" class="btn btn-primary" id="create_arg" onclick="click_CreateArg()">Add</button>
+            <button type="button" class="btn btn-primary" id="done" onclick="click_Done()">Done</button>
+          </div>
+          <div class="overflow-auto" id="args_display">
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+</body>
+
+</html>

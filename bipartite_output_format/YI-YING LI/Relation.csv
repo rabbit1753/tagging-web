@@ -1,0 +1,12 @@
+action,Temporal,3
+action,Coreference,3
+action,Causal Effect,1
+prediction,Coreference,2
+prediction,Temporal,1
+feeling,Causal Effect,1
+character,Temporal,1
+causal relationship,Temporal,1
+causal relationship,ART (artifact),2
+causal relationship,Coreference,3
+causal relationship,Causal Effect,5
+outcome resolution,Coreference,1

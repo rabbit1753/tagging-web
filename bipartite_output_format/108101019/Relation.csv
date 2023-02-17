@@ -1,0 +1,14 @@
+feeling,Coreference,4
+feeling,Causal Effect,5
+causal relationship,Coreference,8
+causal relationship,Causal Effect,16
+action,Coreference,14
+action,Temporal,1
+action,Causal Effect,5
+outcome resolution,Coreference,3
+outcome resolution,Causal Effect,4
+outcome resolution,Temporal,2
+character,Coreference,5
+character,PER-SOC (person-social),1
+setting,Temporal,1
+prediction,Causal Effect,1

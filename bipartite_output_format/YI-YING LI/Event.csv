@@ -1,0 +1,10 @@
+prediction,Action,1
+prediction,State,1
+action,Action,2
+action,State,1
+feeling,State,1
+outcome resolution,Action,2
+causal relationship,State,1
+causal relationship,Action,1
+setting,Action,1
+character,State,1

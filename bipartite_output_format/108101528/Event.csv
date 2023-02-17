@@ -1,0 +1,27 @@
+action,Action,23
+action,Contact,1
+action,Life,4
+action,Movement,2
+action,State,2
+action,Conflict,1
+setting,Conflict,1
+setting,Movement,1
+setting,Action,3
+causal relationship,Action,21
+causal relationship,Contact,3
+causal relationship,Life,1
+causal relationship,State,2
+prediction,Action,5
+prediction,State,1
+feeling,Action,5
+feeling,State,1
+character,Action,9
+character,Contact,1
+character,State,3
+character,Life,3
+character,Process,1
+outcome resolution,Action,8
+outcome resolution,Contact,1
+outcome resolution,State,1
+outcome resolution,Life,1
+outcome resolution,Movement,1
