@@ -1,11 +1,5 @@
 # 標記系統
 
-## Lab Equipment
-* 伺服器編號：59
-* 帳號：widm
-* 密碼：widmwidm
-* Docker Container：tagging-web
-
 ## Requirements
 * uvicorn
 * fastapi
@@ -30,4 +24,4 @@ tagging-web-server/
 啟動標記系統的前端
 `http-server -p 8123`
 
-最後標記系統的登入網址為：http://140.115.54.59:8123/tagging-page.html
+最後標記系統的登入網址為：http://140.115.54.59:8123/Story-ERE-Labeling-Tool/tagging-page.html
